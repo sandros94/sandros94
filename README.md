@@ -1,6 +1,4 @@
 <div align="center">
-  <h3>Hi there 👋</h3>
-
   <p>
     My name is Sandro&nbsp;Circi, formally a photographer, insanely curious and passioned optimizer. Both my passion and work splits up evenly in Media&nbsp;Creation and Software&nbsp;Development, with a particular focus on Photography and Full&nbsp;Stack&nbsp;Development.
   </p>
