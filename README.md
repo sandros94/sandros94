@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**Sandros94/sandros94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Sandro Circi, formally a photographer, insanely curious and passioned optimizer.    
+Both my passion and work splits up evenly in Media Creation and Software Development, with a particular focus on Photography and Full Stack Development.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <samp>
+    <s><a href="https://sandros94.com">website</a></s><sup>work in progress</sup> .
+    <a href="https://mastodon.social/@sandros94">mastodon</a> .
+    <!--<a href="https://twitter.com/the_sandros94">tweets</a> .-->
+    <a href="https://github.com/Sandros94?tab=repositories">repositories</a>
+    <!--<a href="https://github.com/sponsors/sandros94">sponsor</a>-->
+  </samp>
+</p>
