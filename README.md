@@ -16,7 +16,7 @@
 <p align="center">
   <samp>
     <s><a href="https://sandros94.com">website</a></s><sup>work in progress</sup> .
-    <a rel="me" href="https://mastodon.social/@sandros94">mastodon</a> .
+    <a href="https://mastodon.social/@sandros94">mastodon</a> .
     <!--<a href="https://twitter.com/the_sandros94">tweets</a> .-->
     <a href="https://github.com/Sandros94?tab=repositories">repositories</a>
     <!--<a href="https://github.com/sponsors/sandros94">sponsor</a>-->
