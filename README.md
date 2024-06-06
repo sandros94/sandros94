@@ -1,3 +1,5 @@
+[![Sandros94 Nuxter profile](https://nuxters.nuxt.com/card/Sandros94/og.png)](https://nuxters.nuxt.com/Sandros94)
+
 <div align="center">
   <p>
     My name is Sandro&nbsp;Circi, formally a photographer, insanely curious and passioned optimizer. Both my passion and work splits up evenly in Media&nbsp;Creation and Software&nbsp;Development, with a particular focus on product and travel for the first while Nuxt and Directus for the latter.
