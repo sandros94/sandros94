@@ -39,7 +39,7 @@
 <p align="center">
   <samp>
     <a href="https://github.com/Sandros94?tab=repositories" target="_blank">repositories</a> ·
-    <s><a href="https://sandros94.com" target="_blank">website</a></s><sup>work in progress</sup> ·
+    <a href="https://s94.dev" target="_blank">website</a><sup>WIP</sup> ·
     <a href="https://mastodon.social/@sandros94" target="_blank">mastodon</a> ·
     <a href="https://x.com/_sandros94" target="_blank">X</a> ·
     <a href="https://github.com/sponsors/sandros94" target="_blank">sponsor</a>
