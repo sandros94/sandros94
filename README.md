@@ -20,6 +20,7 @@
 
   <h4>Other Favourites</h4>
     <span>
+      <a href="https://ui.nuxt.com" target="_blank">Nuxt UI</a> ·
       <a href="https://unjs.io" target="_blank">UnJS</a> ·
       <a href="https://directus.io" target="_blank">Directus</a> ·
       <a href="https://surrealdb.com" target="_blank">SurrealDB</a>
