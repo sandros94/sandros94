@@ -10,18 +10,19 @@
   <div style="padding-top: 2rem; padding-bottom: 2rem;">
     <h3>My EDC</h3>
     <a href="https://skillicons.dev" target="_blank">
-      <img alt="Softwares I use everyday" src="https://skillicons.dev/icons?i=nuxtjs,ts,js,md,vscode,github,bun,pnpm,docker,ps" />
+      <img alt="Softwares I use everyday" src="https://skillicons.dev/icons?i=nuxtjs,ts,md,docker,ps" />
     </a>
 
   <h4>What I'm still learning</h4>
     <a href="https://skillicons.dev" target="_blank">
-      <img alt="Softwares I need to know better" src="https://skillicons.dev/icons?i=vue,regex,vitest,kubernetes,vite,workers,bots,bash,powershell,go" />
+      <img alt="Softwares I need to know better" src="https://skillicons.dev/icons?i=vitest,vite,kubernetes,vue,regex" />
     </a>
 
   <h4>Other Favourites</h4>
     <span>
       <a href="https://ui.nuxt.com" target="_blank">Nuxt UI</a> ·
       <a href="https://unjs.io" target="_blank">UnJS</a> ·
+      <a href="https://www.postgresql.org" target="_blank">Postgres</a> ·
       <a href="https://directus.io" target="_blank">Directus</a> ·
       <a href="https://surrealdb.com" target="_blank">SurrealDB</a>
     </span>
@@ -41,6 +42,7 @@
   <samp>
     <a href="https://github.com/Sandros94?tab=repositories" target="_blank">repositories</a> ·
     <a href="https://s94.dev" target="_blank">website</a><sup>WIP</sup> ·
+    <a href="https://bsky.app/profile/sandros94.com" target="_blank">bluesky</a> ·
     <a href="https://mastodon.social/@sandros94" target="_blank">mastodon</a> ·
     <a href="https://x.com/_sandros94" target="_blank">X</a> ·
     <a href="https://github.com/sponsors/sandros94" target="_blank">sponsor</a>
