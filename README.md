@@ -43,8 +43,6 @@
     <a href="https://github.com/Sandros94?tab=repositories" target="_blank">repositories</a> ·
     <a href="https://s94.dev" target="_blank">website</a><sup>WIP</sup> ·
     <a href="https://bsky.app/profile/sandros94.com" target="_blank">bluesky</a> ·
-    <a href="https://mastodon.social/@sandros94" target="_blank">mastodon</a> ·
-    <a href="https://x.com/_sandros94" target="_blank">X</a> ·
     <a href="https://github.com/sponsors/sandros94" target="_blank">sponsor</a>
   </samp>
 </p>
