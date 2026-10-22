@@ -1,4 +1,4 @@
-[![Sandros94 Nuxter profile](https://nuxters.nuxt.com/card/Sandros94/og.png)](https://nuxters.nuxt.com/Sandros94)
+[![sandros94's Nuxter profile](https://nuxt.com/nuxters/sandros94/card.png)](https://nuxt.com/nuxters/sandros94)
 
 <div align="center">
   <div style="padding-top: 1rem; padding-bottom: 1rem; max-width: 50ch;">
